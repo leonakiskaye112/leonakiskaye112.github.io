@@ -1,0 +1,81 @@
+html {
+    width: 80%;
+    margin: 0 auto;
+    height: auto;
+    background-color: #78b5e7;
+    border:0;
+   }
+
+body {
+    padding: 30px;
+    background-color:white;
+    border: 2px solid #000;
+  }
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(255, 255, 255);
+    
+}
+section {
+    margin: 2%;
+    padding: 2%;
+    flex: 1 0 42%;
+
+    background-color: #78b5e768;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+  /*   */
+}
+
+article {
+    padding:5%;
+    margin-bottom: 10px;
+    background-color:#78b5e778;
+ }
+
+
+.skills {
+     background-color: #2196F3;
+
+    }
+
+.skills1 {
+    width: 90%;
+    background-color: #2196F3;
+
+}
+
+.skills2 {
+    width: 100%;
+    background-color: #2196F3;
+
+}
+.skills3 {
+    width: 80%;
+    background-color: #2196F3;
+
+}
+
+.skills4 {
+    width: 90%;
+    background-color: #2196F3;
+}
+
+.skills5 {
+    width: 90%;
+    background-color: #2196F3;
+}
+
+.skills6 {
+    width: 100%;
+    background-color: #2196F3;
+
+}
